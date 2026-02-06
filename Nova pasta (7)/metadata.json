@@ -1,0 +1,9 @@
+
+{
+  "name": "GAROTOPARAIBANO Premium",
+  "description": "Uma plataforma sofisticada para criadores de conteúdo premium, com feeds de fotos, vídeos e simulação de transmissões ao vivo com interação por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
